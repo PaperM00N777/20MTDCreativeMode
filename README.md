@@ -10,4 +10,4 @@ press tab to toggle the UI and pause/unpuase the game.
 # Tested Compatibility
 BepInEx ver 5.4.23.4
 
-20MTD Ver 1.0.1 (this is unlikley to change, as flanne is working on another project)
+20MTD ver 1.0.1 (this is unlikley to change, as flanne is working on another project)
