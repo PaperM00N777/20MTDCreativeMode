@@ -8,5 +8,6 @@ https://thunderstore.io/c/20-minutes-till-dawn/p/Paper_M00N777/CreativeModeThund
 press tab to toggle the UI and pause/unpuase the game.
 
 # Tested Compatibility
-Works with BepInEx ver 5.4.23.4
+BepInEx ver 5.4.23.4
+
 20MTD Ver 1.0.1 (this is unlikley to change, as flanne is working on another project)
